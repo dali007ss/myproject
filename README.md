@@ -1,2 +1,3 @@
 # myproject
-demo
+demo.
+
